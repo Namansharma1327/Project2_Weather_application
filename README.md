@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+PROJECT :- WEATHER APPLICATION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description:
+The Weather Application provides real-time weather updates for any city worldwide. Simply enter the name of a city to instantly view current weather conditions, including 
+temperature, weather descriptions, and country information. Ideal for travel planning or staying informed about weather conditions in various locations, this user-friendly 
+app ensures you have the latest and most accurate weather information at your fingertips.
 
-## Available Scripts
+Dependencies
+1. React
+2. Axios
 
-In the project directory, you can run:
+API
+This application uses the "OpenWeatherMap" API to fetch real-time weather data. You will need an API key to use this service. Replace 'your_api_key_here' in the code with your actual API key.
 
-### `npm start`
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Acknowledgments
+ "OpenWeatherMap" API for providing the weather data.
+ 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+HomePage
 
-### `npm run build`
+ <img width="777" alt="image" src="https://github.com/user-attachments/assets/a7185ddb-cbee-452f-8251-eff156b65f07">
+ 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+WorldWide City (London)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ <img width="774" alt="image" src="https://github.com/user-attachments/assets/4f3b258f-bb63-413a-913c-4af798f6a8ba">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Indian City (Delhi)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ <img width="776" alt="image" src="https://github.com/user-attachments/assets/622014c2-c046-4c64-87ca-de0c5a0f064b">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
